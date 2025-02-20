@@ -12,14 +12,14 @@ import queue  # <-- add this at the top with other imports
 import re  # add at top if missing
 
 THEME = {
-    'bg_color': "#282c34",      # Background color
-    'fg_color': "#abb2bf",      # Text color
+    'bg_color': "#F1B2B5",      # Background color
+    'fg_color': "#3D3D3D",      # Text color
     'accent_color': "#61afef",  # Buttons, progress bar
-    'error_color': "#e06c75",   # Error/abort button
-    'header_bg': "#21252b",     # TreeView headers
-    'entry_bg': "#1e1e1e",      # Text entry background
-    'tree_bg': "#2b2b2b",       # TreeView background
-    'tree_selected': "#3e4451"  # Selected row in TreeView
+    'error_color': "#BB0A1E",   # Error/abort button
+    'header_bg': "#F5C5C5",     # TreeView headers
+    'entry_bg': "#BEBEBE",      # Text entry background
+    'tree_bg': "#FFB6C1",       # TreeView background
+    'tree_selected': "#FFB6C1"  # Selected row in TreeView
 }
 
 JSON_FILE = "repos_list.json"
