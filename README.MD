@@ -2,6 +2,8 @@
 
 ![alt text](image.png)
 
+![alt text](<Git Repository Manager 20-02-2025 14_27_56.png>)
+
 Welcome to **GitDownLoader** – the no-nonsense, sassy Git repository manager that does exactly what you need (and none of the boring fluff). Got a mountain of repos to clone? We got you covered with a cool UI, live progress tracking, and the ability to pause or abort at your whim. Because, seriously, who has the time?
 
 ## Features
