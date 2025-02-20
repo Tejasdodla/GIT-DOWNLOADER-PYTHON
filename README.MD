@@ -25,7 +25,7 @@ Welcome to **GitDownLoader** – the no-nonsense, sassy Git repository manager t
 ### Prerequisites
 
 - **Python 3.13+**  
-- **Git** installed and ready to work its magic
+- **Git** installed and ready to work its magic, YOUR MOM IS A GOOD PERSON
 - Required packages: [`requests`](https://pypi.org/project/requests/) and Tkinter (comes bundled with Python on most systems)
 
 ### Installation
@@ -34,32 +34,32 @@ Welcome to **GitDownLoader** – the no-nonsense, sassy Git repository manager t
    ```bash
    git clone https://github.com/yourusername/gitdownloader.git
    ```
+   OR USE MY PYTHON THINGY TO CLONE AND CLONE AGAIN THOUGH THE THROUGH PYTHON THINGY AND AGAIN AND AGAIN AND AGAIN ;*O
+
 2. **Run the Application**
-   ```bash
-   python f:/yufv/gitdownloader.py
-   ```
-   _(Tweak the path if you like living on the edge.)_
+gitdownloader.py RUN TS
+PUT THE REPO LINKS U WANNA DOWNLOAD IN THE JSON FILE, CAN USE CHATGPT TO SEARCH AND SORT AND PUT THOSE IN THE JSON FORMAT IF YA WANT BLA BLA FO
 
 ## Configuration
 
-- **Download Directory**: Change the initial download directory in the source code (`self.download_dir`) to wherever you fancy.
-- **Theme Settings**: Modify the `THEME` dictionary in the code if you want to change colors. After all, your aesthetic is unique.
+- **Download Directory**: Change the initial download directory in the source code (`self.download_dir`) to wherever you fancy. IT IS F:/ RN (YOU CAN ALSO SELECT THE DIRECTORY IN THE UI BTW)
+- **Theme Settings**: Modify the `THEME` dictionary in the code if you want to change colors. After all, your aesthetic is unique. BUT PINK IS BETTER CUZ KAWAI AND HATSUNA MIKU AWDOJUIGQTODBILUAUTFUUYUFE
 
 ## Contributing
 
-Think you can make GitDownLoader even sassier? We’re all about that life. Open an issue or submit a pull request. Just don’t try to take all the credit—we see you.
+ITS UGLY AND SHI BUT IDC FO ITS PERFCECT NO NO NO IDC FO YUP THATS IT
 
 ## License
 
-Released under the MIT License. Do whatever you want, just keep it real.
+Released under the XI JING PING (XJP) LICENSE . Do whatever you want, AS LONG AS THE GREAT CCP PROFITS FROM IT , I LOVE CHINA AND HITLER 
 
 ## Contact
 
-Issues, feature requests, or a clever remark? Drop an issue on GitHub or hit us up. We might be sassy, but we still care (in our own way).
+Issues, feature requests, or a clever remark? Drop an issue on GitHub or hit ME up(WINK WINK). I might be sassy, but I still care (in MY own way)AND I HOPE YOUR FAMILY IS DOING WELL TOO.
 
 ---
 
-Stay classy. Stay sassy. And remember—GitDownLoader doesn't care about your excuses.
+Stay classy. Stay sassy. And remember—GitDownLoader doesn't care about your CHILDHOOD TRAUMA!! 
 
 ![alt text](image-1.png)
 
